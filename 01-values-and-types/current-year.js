@@ -8,3 +8,6 @@ EX: 2000 + 18 - 2 * 1;
 */
 
 // YOUR CODE BELOW
+let currentYear = 2000 + 20 + 1 + 2;
+
+console.log(currentYear)
