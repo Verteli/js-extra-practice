@@ -6,3 +6,6 @@ EX: "FULLSTACK ACADEMY".toLowerCase() OUTPUT: "fullstack academy";
 */
 
 // YOUR CODE BELOW
+let fruit = 'Apples';
+
+console.log(fruit.toUpperCase())
